@@ -1,0 +1,11 @@
+asim,ali,Admin
+yeuiwry,12345678,Customer,ojweior8,wrjlw
+qwewqe,231123,Admin
+Ayesha,1234,Admin
+ali,12345678,Customer,2312,dqweq
+asim,12345678,Customer,0098312312,@.com
+pepepopo123,12345678,Customer,03121212122,@.com
+batista,12345678,Admin
+ali,12345678,Customer,123423123,@.com
+akram,12345678,Customer,032432458373,akram@gmail.com
+asimm,123456789,Admin
